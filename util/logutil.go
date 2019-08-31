@@ -26,8 +26,8 @@ import (
 	"github.com/rifflock/lfshook"
 	"github.com/sirupsen/logrus"
 
-	"github.com/future-architect/vuls-config/config"
 	formatter "github.com/kotakanbe/logrus-prefixed-formatter"
+	"github.com/sadayuki-matsuno/vuls-config/config"
 )
 
 // Log for localhsot

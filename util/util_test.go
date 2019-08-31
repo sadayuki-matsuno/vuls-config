@@ -20,7 +20,7 @@ package util
 import (
 	"testing"
 
-	"github.com/future-architect/vuls-config/config"
+	"github.com/sadayuki-matsuno/vuls-config/config"
 )
 
 func TestUrlJoin(t *testing.T) {
